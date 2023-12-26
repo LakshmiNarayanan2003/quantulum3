@@ -7,9 +7,6 @@ dist/
 deploy
 deploy.py
 .idea
-*.joblib
-*common-words.json
-
 # GloVe data files
 glove.*.zip
 glove.*.txt
