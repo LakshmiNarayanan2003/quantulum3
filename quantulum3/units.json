@@ -820,6 +820,38 @@
     ],
     "currency_code": "INR"
   },
+  "swedish krona": {
+    "surfaces": [
+      "swedish krona",
+      "swedish kroner",
+      "swedish krone",
+      "swedish króna"
+    ],
+    "entity": "currency",
+    "URI": "Currency",
+    "dimensions": [],
+    "symbols": [
+      "kr",
+      "SEK"
+    ],
+    "currency_code": "SEK"
+  },
+  "danish krona": {
+    "surfaces": [
+      "danish krona",
+      "danish kroner",
+      "danish krone",
+      "danish króna"
+    ],
+    "entity": "currency",
+    "URI": "Currency",
+    "dimensions": [],
+    "symbols": [
+      "kr",
+      "DKK"
+    ],
+    "currency_code": "DKK"
+  },
   "krona": {
     "surfaces": [
       "krona",
@@ -831,8 +863,42 @@
     "URI": "Currency",
     "dimensions": [],
     "symbols": [
+      "kr",
+      "KR"
     ],
     "currency_code": "KR"
+  },
+  "norwegian krona": {
+    "surfaces": [
+      "norwegian krona",
+      "norwegian kroner",
+      "norwegian krone",
+      "norwegian króna"
+    ],
+    "entity": "currency",
+    "URI": "Currency",
+    "dimensions": [],
+    "symbols": [
+      "kr",
+      "NOK"
+    ],
+    "currency_code": "NOK"
+  },
+  "iceland krona": {
+    "surfaces": [
+      "iceland krona",
+      "iceland kroner",
+      "iceland krone",
+      "iceland króna"
+    ],
+    "entity": "currency",
+    "URI": "Currency",
+    "dimensions": [],
+    "symbols": [
+      "kr",
+      "ISK"
+    ],
+    "currency_code": "ISK"
   },
   "mexican peso": {
     "surfaces": [
