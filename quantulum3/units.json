@@ -820,6 +820,20 @@
     ],
     "currency_code": "INR"
   },
+  "krona": {
+    "surfaces": [
+      "krona",
+      "kroner",
+      "krone",
+      "króna"
+    ],
+    "entity": "currency",
+    "URI": "Currency",
+    "dimensions": [],
+    "symbols": [
+    ],
+    "currency_code": "KR"
+  },
   "mexican peso": {
     "surfaces": [
       "mexican peso",
